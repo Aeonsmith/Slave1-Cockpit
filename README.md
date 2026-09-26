@@ -1,6 +1,10 @@
 # Firespray-31 (*Slave I*) Cockpit Avionics Console
 > **Sub-Layer Seed**: `Lone Ranger` | **Avionics**: `Kuat Systems Engineering`
 
+[![Firespray-31 Avionics CI](https://github.com/Aeonsmith/Slave1-Cockpit/actions/workflows/ci.yml/badge.svg)](https://github.com/Aeonsmith/Slave1-Cockpit/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python: 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+
 An interactive, modular terminal cockpit simulation for the iconic *Firespray-31* class patrol craft (*Slave I*). Designed with a **"one-click starship cockpit"** philosophy—instant departure with automated 90° attitude rotation, tactile tactical dials, real-time diagnostic alerts, and blackbox telemetry playback.
 
 ---
