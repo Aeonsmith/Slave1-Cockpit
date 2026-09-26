@@ -1,0 +1,42 @@
+{
+  "vessel": "Firespray-31 (Slave I)",
+  "sub_layer_seed": "Lone Ranger",
+  "last_updated": "2026-09-26T15:21:15.370358",
+  "total_snapshots": 1,
+  "snapshots": [
+    {
+      "timestamp": "2026-09-26T15:21:15.370352",
+      "trigger_event": "SYSTEM_INITIALIZED",
+      "flight_telemetry": {
+        "orientation": "HORIZONTAL (Landing)",
+        "gyro_locked": true,
+        "transit_engaged": false,
+        "thrust_percent": 0,
+        "hyperdrive_status": "READY",
+        "core_temp_kelvin": 418.0
+      },
+      "stealth_and_sensors": {
+        "iff_ident": "CIVILIAN_HAULER_489",
+        "baffle_saturation_percent": 12.0,
+        "stealth_mode": "SILENT_RUNNING",
+        "mass_shadow_detected": false,
+        "contacts_in_range": 2,
+        "sensor_mode": "PASSIVE_GRAVIMETRIC"
+      },
+      "weapons_and_ordnance": {
+        "blasters_armed": true,
+        "concussion_missiles": 6,
+        "seismic_charges": 4,
+        "seismic_chute_status": "LOCKED",
+        "tractor_beam": false
+      },
+      "active_alerts": []
+    }
+  ],
+  "recent_event_log": [
+    "[15:21:15] Avionics cold-start complete.",
+    "[15:21:15] Gyro-gimbal ring initialized in 0\u00b0 landing mode.",
+    "[15:21:15] Lone Ranger sub-layer seed active.",
+    "[15:21:15] Blackbox flight recorder online."
+  ]
+}
